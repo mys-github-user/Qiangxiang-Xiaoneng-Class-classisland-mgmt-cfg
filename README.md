@@ -14,3 +14,5 @@
 然后保存，并喂给classisland。
 详细方法参见https://docs.classisland.tech/management/connect-to-mgmt-server.html。
 这是官方文档，放心食用。
+
+PS:有问题，请咨询毛彦淞（QQ:3837086679），这人经常不在线。
