@@ -1,9 +1,7 @@
 {
     "Name": "",
     "TimeLayouts": {},
-    "ClassPlans": {
-         "ClassPlans": {
-    "85d2c0aa-1872-456d-a777-69d6f70d3d83": {
+    "ClassPlans": {"85d2c0aa-1872-456d-a777-69d6f70d3d83": {
       "TimeLayoutId": "2994af47-317e-4610-b622-408b88d8554e",
       "TimeRule": {
         "WeekDay": 5,
@@ -1263,5 +1261,6 @@
       },
       "IsActive": false
     },
+    },
     "Subjects": {}
-    }
+}
