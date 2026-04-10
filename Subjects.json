@@ -3,6 +3,118 @@
     "TimeLayouts": {},
     "ClassPlans": {},
     "Subjects": {
+        "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
+            "Name": "语文",
+            "Initial": "语",
+            "TeacherName": "付磊",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": false,
+                    "IsClassOffNotificationEnabled": false,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
+                    "ClassOffOverlayText": "",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "1154d452-5ede-4194-b4dd-cb40c956c8ed": {
+            "Name": "数学",
+            "Initial": "数",
+            "TeacherName": "张代如",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": false,
+                    "IsClassOffNotificationEnabled": false,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
+                    "ClassOffOverlayText": "",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
+            "Name": "英语",
+            "Initial": "英",
+            "TeacherName": "陈航",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": false,
+                    "IsClassOnPreparingNotificationEnabled": false,
+                    "IsClassOffNotificationEnabled": false,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
+                    "ClassOffOverlayText": "",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04": {
+            "Name": "历史",
+            "Initial": "历",
+            "TeacherName": "花花老师",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "9f0d71b7-b4da-4040-a3d5-64da7573c6dd": {
+            "Name": "政治",
+            "Initial": "政",
+            "TeacherName": "花花老师",
+            "IsOutDoor": false,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
+            "Name": "物理",
+            "Initial": "物",
+            "TeacherName": "刘妈",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+                    "ClassOnPreparingMaskText": "即将上课",
+                    "OutdoorClassOnPreparingMaskText": "即将上课",
+                    "ClassOnMaskText": "上课",
+                    "ClassOffMaskText": "课间休息",
+                    "ClassOffOverlayText": "下课",
+                    "IsAttachSettingsEnabled": true,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
         "d18e9906-0210-4f00-9dd6-b919f0dd8287": {
             "Name": "化学",
             "Initial": "化",
@@ -222,7 +334,7 @@
         "18c70e81-6c1b-4f67-8242-cfaa7bf9f60e": {
             "Name": "烤鸭",
             "Initial": "烤",
-            "TeacherName": "",
+            "TeacherName": "监考老吸",
             "IsOutDoor": false,
             "AttachedObjects": {},
             "IsActive": false

@@ -8,7 +8,7 @@
 {
     "ManagementServerKind": 0,
     "ManagementServer": "",
-    "ManifestUrlTemplate": "https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/manifest.json"
+    "ManifestUrlTemplate": "https://gh-proxy.org/https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/mainfest.json"
 }
 ```
 然后保存，并喂给classisland。
