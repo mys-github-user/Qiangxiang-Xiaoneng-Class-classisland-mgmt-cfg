@@ -1,18 +1,18 @@
 {
     "ServerKind": 0,
-    "CoreVersion": "2.1.0.0",
+    "CoreVersion": "2.1.1.1",
     "OrganizationName": "Qiangxiang Xiaoneng Class",
 
     "ClassPlanSource": {
         "Value": "https://gh-proxy.org/https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/ClassPlans.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://gh-proxy.org/https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/TimeLayouts.json",
-        "Version": 2
+        "Version": 3
     },
     "SubjectsSource": {
         "Value": "https://gh-proxy.org/https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/Subjects.json",
-        "Version": 3
+        "Version": 4
     }
 }
