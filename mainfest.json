@@ -4,15 +4,15 @@
     "OrganizationName": "Qiangxiang Xiaoneng Class",
 
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/ClassPlans.json",
+        "Value": "https://gh-proxy.org/https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/TimeLayouts.json",
+        "Value": "https://gh-proxy.org/https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/TimeLayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/Subjects.json",
+        "Value": "https://gh-proxy.org/https://raw.githubusercontent.com/mys-github-user/Qiangxiang-Xiaoneng-Class-classisland-mgmt-cfg/master/Subjects.json",
         "Version": 1
     }
 }
